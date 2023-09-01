@@ -1,1 +1,1 @@
-### Resources for Elements of Databases Fall 2023
+### Notebooks and setup guides for Elements of Databases Fall 2023
